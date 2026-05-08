@@ -2,7 +2,7 @@
   <h1>🎨 CODEQUEST Design</h1>
 
   <p>
-    Repositório interno da equipe de <strong>design</strong> do projeto
+    Repositorio interno da equipe de <strong>design</strong> do projeto
     <strong>CODEQUEST</strong>.
   </p>
 </div>
